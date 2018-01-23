@@ -30,7 +30,7 @@
   "author": "Pablo Sichert <kps@one.com>",
   "license": "ISC",
   "peerDependencies": {
-    "react": "<= 15.x.x"
+    "react": "15.x.x || 16.x"
   },
   "devDependencies": {
     "babel-cli": "^6.22.2",
